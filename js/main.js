@@ -59,3 +59,8 @@ function myFunction() {
     var element = document.body;
     element.classList.toggle("dark-mode");
  }
+function myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+ }
+ src="https://code.iconify.design/1/1.0.7/iconify.min.js"
