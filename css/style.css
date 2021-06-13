@@ -441,7 +441,10 @@ img{
     justify-items: center;
   }
 }
-
+.dark-mode {
+  background-color: #222;
+  color: white;
+}
 @media screen and (min-width: 1024px){
   .bd-grid{
     margin-left: auto;
